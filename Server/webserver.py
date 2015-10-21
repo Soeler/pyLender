@@ -1,6 +1,6 @@
 #coding: utf-8
 
-import mySockets
+import ../mySockets
 import datetime
 import threading
 
